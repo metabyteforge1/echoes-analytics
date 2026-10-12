@@ -1,0 +1,52 @@
+ <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,
+  initial-scale=1.0">
+    <title>Echoes Analytics — Privacy Policy</title>
+    <style>
+      body { font-family: sans-serif; max-width: 800px;
+  margin: 60px auto; padding: 0 20px; color: #222;
+  line-height: 1.6; }
+      h1 { font-size: 1.6em; } h2 { font-size: 1.1em;
+  margin-top: 2em; }
+    </style>
+  </head>
+  <body>
+    <h1>Privacy Policy</h1>
+    <p><strong>Last updated:</strong> October 11, 2026</p>
+    <p>Echoes Analytics is a personal creator analytics
+  dashboard that reads video performance data from TikTok to
+   help the creator track their own content metrics.</p>
+
+    <h2>Data Collected</h2>
+    <p>This application accesses the following data from
+  your TikTok account via the TikTok API:</p>
+    <ul>
+      <li>Video view counts, like counts, comment counts,
+  and share counts</li>
+      <li>Basic account information (username, follower
+  count)</li>
+    </ul>
+
+    <h2>How Data Is Used</h2>
+    <p>All data is used solely for personal analytics
+  purposes by the account owner. No data is stored on
+  external servers, sold, or shared with any third
+  party.</p>
+
+    <h2>Data Retention</h2>
+    <p>Data is retrieved on demand and not persistently
+  stored beyond the local session.</p>
+
+    <h2>Third Parties</h2>
+    <p>This application does not share any data with third
+  parties.</p>
+
+    <h2>Contact</h2>
+    <p>For questions about this privacy policy, contact: <a
+  href="mailto:gabe@elevateddailystudios.com">gabe@elevatedd
+  ailystudios.com</a></p>
+  </body>
+  </html>
